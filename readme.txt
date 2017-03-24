@@ -11,7 +11,7 @@ Games that will not work, for example, are Yoshi's Island, Street Fighter Alpha 
 This port supports keyboard and USB joystick input and are configurable. It uses GLES2/dispmanx for graphics so can run equally well in the Console or under X-Windows. The audio uses the ALSA API and SDL is used for input.
 
 Web page for downloads, news, source, additional information:
-https://sourceforge.net/projects/pisnes
+https://github.com/squidrpi/pisnes
 
 (No asking for ROMS)
 
